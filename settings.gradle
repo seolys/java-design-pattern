@@ -2,3 +2,4 @@ rootProject.name = 'java-design-pattern'
 
 include 'state'
 include 'state:gumball'
+include 'state:online-course'
